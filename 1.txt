@@ -1,1 +1,11 @@
-First
+First Change
+another line
+Bulk change 1
+Bulk change 2
+Bulk change 3
+More changes
+Another line
+Final line
+Batch update
+Line B
+Line C
